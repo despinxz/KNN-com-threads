@@ -8,7 +8,6 @@ Este repositório contém a implementação do algoritmo KNN na linguagem C, faz
 ## Arquivos do repositório
 - **knn.c:** Código do programa a ser executado;
 - **relatorio.pdf:** Relatório detalhando a construção do programa e evidenciando a diferença de performance para cada número de threads diferente;
-- **Arquivos de teste:** Diretório contendo todos os arquivos de teste utilizados na execução do programa;
 - **Saídas para diferentes valores de K:** Diretório contendo os arquivos de saída para diferentes valores de K.
 
 ## Como executar
