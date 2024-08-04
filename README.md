@@ -12,7 +12,8 @@ Este repositório contém a implementação do algoritmo KNN na linguagem C, faz
 - **Saídas para diferentes valores de K:** Diretório contendo os arquivos de saída para diferentes valores de K.
 
 ## Como executar
-Para o funcionamento correto do programa, é necessário que os arquivos zips sejam extraídos para diretórios com o mesmo nome no mesmo local do programa.
+**Obs.:** O programa depende de arquivos `xtrain.txt`e `ytrain.txt`, não disponibilizados por ultrapassarem o limite de tamanho.
+
 Para executar o programa, instale o commpilador GCC e execute o seguinte comando no terminal para compilá-lo:
 
     gcc knn.c -o knn
